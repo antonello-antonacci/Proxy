@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
+<abiword template="false" styles="unlocked" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="842" xmlns:dc="http://purl.org/dc/elements/1.1/" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.9.1" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:it-IT; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<!-- ======================================================================== -->
+<!-- This file is an AbiWord document.                                        -->
+<!-- AbiWord is a free, Open Source word processor.                           -->
+<!-- More information about AbiWord is available at http://www.abisource.com/ -->
+<!-- You should not edit this file by hand.                                   -->
+<!-- ======================================================================== -->
+
+<metadata>
+<m key="dc.format">application/x-abiword</m>
+<m key="abiword.generator">AbiWord</m>
+</metadata>
+<history version="7" edit-time="20788" last-saved="1329185505" uid="77e91150-55a0-11e1-9072-dca384564ff9">
+<version id="4" started="1329079962" uid="6e32bf70-55c4-11e1-9072-dca384564ff9" auto="0" top-xid="298"/>
+<version id="5" started="1329154820" uid="ccadde2c-5669-11e1-9d55-93838a714a9c" auto="0" top-xid="815"/>
+<version id="6" started="1329168077" uid="aa7bf5c2-5688-11e1-8013-f40fe4834094" auto="0" top-xid="833"/>
+<version id="7" started="1329185505" uid="3e988158-56b1-11e1-87e8-9f08d962060c" auto="0" top-xid="842"/>
+</history>
+<styles>
+<s type="P" name="Normal" followedby="Current Settings" props="font-weight:normal; font-family:Times New Roman; margin-top:0pt; color:000000; margin-left:0pt; text-align:left; widows:2; font-style:normal; text-indent:0in; text-position:normal; font-variant:normal; bgcolor:transparent; line-height:1.0; text-decoration:none; margin-bottom:0pt; margin-right:0pt; font-size:12pt; font-stretch:normal"/>
+<s type="C" name="Reference" props="font-size:10pt"/>
+</styles>
+<pagesize pagetype="A4" orientation="portrait" width="210.000000" height="297.000000" units="mm" page-scale="1.000000"/>
+<section xid="13" props="page-margin-footer:0.5000in; page-margin-header:0.5000in; page-margin-right:1.0000in; page-margin-left:1.0000in; page-margin-top:1.0000in; page-margin-bottom:1.0000in">
+<p style="Normal" xid="14"><c props="font-weight:bold; font-size:14pt"></c></p>
+<p style="Normal" xid="33"><c props="font-weight:bold; font-size:14pt">RELAZIONE PROGETTO DI RETI DI CALCOLATORI a.a. 2010/2011</c><c props="font-weight:bold; font-size:14pt"></c></p>
+<p style="Normal" xid="667"><c props="font-weight:bold; font-size:14pt">				PROF. VITTORIO GHINI</c><c props="font-weight:bold; font-size:14pt"></c></p>
+<p style="Normal" xid="1"><c props="font-weight:bold; font-size:16pt">	</c><c props="font-weight:bold; font-size:16pt"></c></p>
+<p style="Normal" xid="46"><c props="font-weight:bold; font-size:16pt; font-style:italic">	«Proxy miniHTTP/miniHTML con parallelizzazione»</c><c props="font-weight:bold; font-size:16pt; font-style:italic"></c></p>
+<p style="Normal" xid="2"><c props="font-weight:bold; font-size:14pt"></c></p>
+<p style="Normal" xid="3"><c props="font-weight:bold; font-size:14pt">			</c><c props="font-weight:bold; font-size:14pt"></c></p>
+<p style="Normal" xid="8"><c props="font-weight:bold; font-size:14pt"></c></p>
+<p style="Normal" xid="9"><c props="font-weight:bold; font-size:14pt"></c></p>
+<p style="Normal" xid="10"><c props="font-weight:bold; font-size:14pt"></c></p>
+<p style="Normal" xid="11"><c props="font-weight:bold; font-size:14pt"></c><c props="font-weight:bold; font-size:14pt">		</c></p>
+<p style="Normal" xid="50"><c props="font-weight:bold; font-size:14pt">			Antonello Antonacci - Ruggero Schirinzi</c><c props="font-weight:bold; font-size:14pt"></c></p>
+<p style="Normal" xid="5"><c props="font-weight:bold; font-size:14pt">			</c><c props="font-weight:bold; font-size:14pt"></c><c props="font-weight:normal; font-size:9pt; font-style:italic">antonello.antonacci@studio.unibo.it</c></p>
+<p style="Normal" xid="815"><c props="font-weight:normal; font-size:9pt; font-style:italic">			ruggero.schirinzi@gmail.com</c><c props="font-weight:normal; font-size:9pt; font-style:italic"></c></p>
+<p style="Normal" xid="6"><c props="font-weight:bold; font-size:14pt"></c></p>
+<p style="Normal" xid="7"><c props="font-weight:bold; font-size:14pt"></c></p>
+<p style="Normal" xid="51"><c props="font-weight:bold; font-size:14pt"></c></p>
+<p style="Normal" xid="52"><c props="font-weight:bold; font-size:14pt"></c></p>
+<p style="Normal" xid="74"><c props="font-weight:bold; font-size:14pt"></c></p>
+<p style="Normal" xid="668"><c props="font-weight:bold; font-size:14pt"></c></p>
+<p style="Normal" xid="669"><c props="font-weight:bold; font-size:14pt"></c></p>
+<p style="Normal" xid="75"><c props="font-weight:bold; font-size:14pt"></c></p>
+<p style="Normal" xid="53"><c props="font-weight:bold; font-size:14pt"></c></p>
+<p style="Normal" xid="54"><c props="text-decoration:underline; font-weight:normal; font-size:14pt">SCOPO DEL PROGETTO:</c><c props="text-decoration:underline; font-weight:normal; font-size:14pt"></c></p>
+<p style="Normal" xid="55"><c props="font-weight:normal; text-decoration:none; font-size:12pt"></c></p>
+<p style="Normal" xid="56"><c props="font-weight:normal; text-decoration:none; font-size:12pt"></c><c props="font-weight:normal; text-decoration:none; font-size:12pt">Utilizzando il protocollo TCP, si deve implementare un proxy che fornisca un servizio di forwarding tra diversi Client ed un Server.</c></p>
+<p style="Normal" xid="57"><c props="font-weight:normal; text-decoration:none; font-size:12pt">Per ogni richiesta GET ricevuta da un Client, il proxy deve instaurare una connessione con il Server, ottenere informazioni (richiesta INF) sul file voluto dal Client e strutturare una serie di richieste GET da inoltrare al Server, per ottenere il contenuto del file in questione; una volta fatto ciò, il proxy dovrà inoltrare il contenuto del file al Client in attesa.</c><c props="font-weight:normal; text-decoration:none; font-size:12pt"></c></p>
+<p style="Normal" xid="58"><c props="font-weight:normal; text-decoration:none; font-size:12pt"></c></p>
+<p style="Normal" xid="59"><c props="font-weight:normal; text-decoration:none; font-size:12pt"></c></p>
+<p style="Normal" xid="60"><c props="font-weight:normal; text-decoration:underline; font-size:14pt; font-style:normal">PANORAMICA GENERALE:</c><c props="font-weight:normal; text-decoration:underline; font-size:14pt; font-style:normal"></c></p>
+<p style="Normal" xid="62"><c props="font-weight:normal; text-decoration:underline; font-size:14pt; font-style:normal"></c></p>
+<p style="Normal" xid="63"><c props="text-decoration:none; font-weight:normal; font-size:12pt; font-style:normal">Seguendo le specifiche, il Server utilizzato nel nostro progetto può accettare esclusivamente richieste GET con RANGE. Nel dettaglio, ogni richiesta può specificare un blocco massimo di 10 byte.</c><c props="text-decoration:none; font-weight:normal; font-size:12pt; font-style:normal"></c></p>
+<p style="Normal" xid="64"><c props="text-decoration:none; font-weight:normal; font-size:12pt; font-style:normal">Per questo motivo, e sapendo che il Server chiude la connessione con il proxy subito dopo l'invio di ogni singola risposta, il proxy deve prima calcolare il numero necessario di richieste GET e, successivamente, instaurare per ognuna di esse una connessione lato-Server.</c><c props="text-decoration:none; font-weight:normal; font-size:12pt; font-style:normal"></c></p>
+<p style="Normal" xid="65"><c props="text-decoration:none; font-weight:normal; font-size:12pt; font-style:normal">Il proxy, implementato utilizzando dei thread, permette il download e l'invio di ogni singola parte del file in parallelo.</c><c props="text-decoration:none; font-weight:normal; font-size:12pt; font-style:normal"></c></p>
+<p style="Normal" xid="66"><c props="text-decoration:none; font-weight:normal; font-size:12pt; font-style:normal">Inoltre, è stata implementata una piccola memoria cache, contenente al massimo 20 file, che viene continuamente controllata, ed eventualmente svuotata, da un thread ausiliario chiamato nel corpo del main().</c><c props="text-decoration:none; font-weight:normal; font-size:12pt; font-style:normal"></c></p>
+<p style="Normal" xid="70"><c props="text-decoration:none; font-weight:normal; font-size:12pt; font-style:normal"></c></p>
+<p style="Normal" xid="71"><c props="text-decoration:none; font-weight:normal; font-size:12pt; font-style:normal"></c></p>
+<p style="Normal" xid="72"><c props="text-decoration:underline; font-weight:normal; font-size:14pt; font-style:normal">STRUTTURE:</c><c props="text-decoration:underline; font-weight:normal; font-size:14pt; font-style:normal"></c></p>
+<p style="Normal" xid="73"><c props="text-decoration:underline; font-weight:normal; font-size:14pt; font-style:normal"></c></p>
+<p style="Normal" xid="68"><c props="text-decoration:none; font-weight:normal; font-size:12pt; font-style:normal">Di seguito, analizzeremo le strutture implementate ed utilizzate nel nostro proxy.</c><c props="text-decoration:none; font-weight:normal; font-size:12pt; font-style:normal"></c></p>
+<p style="Normal" xid="76"><c props="text-decoration:none; font-weight:normal; font-size:12pt; font-style:normal"></c></p>
+<p style="Normal" xid="179"><c props="font-weight:bold; text-decoration:none; font-size:12pt; font-style:normal">RequestWrapper:</c><c props="font-weight:bold; text-decoration:none; font-size:12pt; font-style:normal"></c></p>
+<p style="Normal" xid="180"><c props="font-weight:bold; text-decoration:none; font-size:12pt; font-style:normal"></c></p>
+<p style="Normal" xid="181"><c props="font-weight:normal; text-decoration:none; font-size:12pt; font-style:normal">Questa è la struttura principale del proxy, contenente una serie di strutture che verranno utilizzate per il corretto svolgimento delle operazioni.</c><c props="font-weight:normal; text-decoration:none; font-size:12pt; font-style:normal"></c></p>
+<p style="Normal" xid="192"><c props="font-weight:normal; text-decoration:none; font-size:12pt; font-style:normal">Il campo 'posizione' viene utilizzato in un array bidimensionale per controllare che, dopo aver ricevuto il blocco dati dal Server, sia effettivamente il proprio turno per inviarli al Client.</c><c props="font-weight:normal; text-decoration:none; font-size:12pt; font-style:normal"></c></p>
+<p style="Normal" xid="225"><c props="font-weight:normal; text-decoration:none; font-size:12pt; font-style:normal">All'interno del proxy viene dichiarato un array contenente 100 RequestWrapper, tante quante le connessioni accettate dalla listen() del proxy.</c><c props="font-weight:normal; text-decoration:none; font-size:12pt; font-style:normal"></c></p>
+<p style="Normal" xid="61" props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none"><c></c></p>
+<frame xid="670" props="background-color:e5e5e5; frame-width:6.236806in; right-color:000000; frame-col-xpos:-0.025000in; ypos:0.078472in; top-color:000000; frame-page-ypos:3.357639in; bot-color:000000; bg-style:1; left-color:000000; left-thickness:1.00pt; ypad:0.03in; frame-height:1.074306in; right-thickness:1.00pt; xpos:-0.025000in; frame-page-xpos:0.975000in; top-style:0; wrap-mode:wrapped-both; bot-style:0; bot-thickness:1.00pt; frame-type:textbox; frame-col-ypos:2.357639in; position-to:column-above-text; xpad:0.03in; left-style:0; relocate:0; right-style:0; pref-page:1; tight-wrap:0; top-thickness:1.00pt">
+<p xid="672" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none">struct RequestWrapper {</c><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none"></c></p>
+<p xid="673" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none">	struct Request request;</c><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none"></c></p>
+<p xid="674" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none">	struct RequestGet request_get;</c><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none"></c></p>
+<p xid="675" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none">	struct ResponseGet response_get;</c><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none"></c></p>
+<p xid="676" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none">	struct ResponseInf response_inf;</c><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none"></c></p>
+<p xid="677" props="margin-top:0.0000in; margin-left:0.1250in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none">	int posizione;	</c><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none"></c></p>
+<p xid="678" props="margin-top:0.0000in; margin-left:0.1250in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none">};</c><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none"></c></p>
+</frame><p xid="171" props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"><c></c></p>
+<p xid="184" props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"><c></c></p>
+<p xid="211"><c></c></p>
+<p xid="212"><c></c></p>
+<p xid="213"><c></c></p>
+<p xid="214"><c></c></p>
+<p xid="215"><c></c></p>
+<p xid="235"><c props="font-weight:bold">Request:</c><c props="font-weight:bold"></c></p>
+<p xid="236"><c props="font-weight:bold"></c></p>
+<p xid="237"><c props="font-weight:normal">Questa struttura viene usata nella prima fase della comunicazione lato-Client.</c><c props="font-weight:normal"></c></p>
+<p xid="248"><c props="font-weight:normal">Al suo interno sono presenti due buffer, uno per la ricezione della richiesta ed un altro per l'invio della richiesta INF.</c><c props="font-weight:normal"></c></p>
+<p xid="249"><c props="font-weight:normal">Nel buffer 'PATH' verrà inserito il nome(compresa l'estensione)del file da richiedere.</c><c props="font-weight:normal"></c></p>
+<p xid="238" props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none"><c></c></p>
+<frame xid="679" props="background-color:e5e5e5; frame-width:6.259028in; right-color:000000; frame-col-xpos:-0.029167in; ypos:0.059722in; top-color:000000; frame-page-ypos:5.925000in; bot-color:000000; bg-style:1; left-color:000000; left-thickness:1.00pt; ypad:0.03in; frame-height:1.230556in; right-thickness:1.00pt; xpos:-0.029167in; frame-page-xpos:0.970833in; top-style:0; wrap-mode:wrapped-both; bot-style:0; bot-thickness:1.00pt; frame-type:textbox; frame-col-ypos:4.925000in; position-to:column-above-text; xpad:0.03in; left-style:0; relocate:0; right-style:0; pref-page:1; tight-wrap:0; top-thickness:1.00pt">
+<p xid="681" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none">struct Request {</c><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none"></c></p>
+<p xid="682" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none">	char buf[MAXLENREQ];</c><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none"></c></p>
+<p xid="683" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none">	char inf[MAXLENREQ];/*	buffer per richiesta INF	*/</c><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none"></c></p>
+<p xid="684" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none">	int lenreq;</c><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none"></c></p>
+<p xid="685" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none">	uint16_t port;	/*	porta server	*/</c><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none"></c></p>
+<p xid="686" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none">	struct in_addr serveraddr; /*	ip server	sockaddr_in*/</c><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none"></c></p>
+<p xid="687" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none">	char path[MAXLENPATH];</c><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none"></c></p>
+<p xid="688" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none">};</c><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none"></c></p>
+<p xid="689" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none"></c></p>
+</frame><p xid="438" props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"><c props="font-weight:normal"></c></p>
+<p xid="439" props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"><c props="font-weight:normal"></c></p>
+<p xid="440" props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"><c props="font-weight:normal"></c></p>
+<p xid="441" props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"><c props="font-weight:normal"></c></p>
+<p xid="442" props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"><c props="font-weight:normal"></c></p>
+<p xid="443" props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"><c props="font-weight:normal"></c></p>
+<p xid="444" props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"><c props="font-weight:normal"></c></p>
+<p xid="445" props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none"><c></c></p>
+<p xid="446" props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"><c props="font-weight:normal"></c></p>
+<p xid="239" props="text-align:left; dom-dir:ltr"><c props="font-style:italic; font-size:9pt"></c></p>
+<p xid="252" props="text-align:left; dom-dir:ltr"><c props="font-size:9pt"></c></p>
+<p xid="253" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold; font-size:12pt">RequestGet:</c><c props="font-weight:bold; font-size:12pt"></c></p>
+<p xid="261" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold; font-size:12pt"></c></p>
+<p xid="262" props="text-align:left; dom-dir:ltr"><c props="font-weight:normal; font-size:12pt">Questa struttura viene utilizzata per effettuare le richieste GET con RANGE.</c><c props="font-weight:normal; font-size:12pt"></c></p>
+<p xid="263" props="text-align:left; dom-dir:ltr"><c props="font-weight:normal; font-size:12pt">All'interno del campo 'buf' si trova la richiesta vera e propria, impostata secondo il formato delle specifiche.</c><c props="font-weight:normal; font-size:12pt"></c></p>
+<p xid="264" props="text-align:left; dom-dir:ltr"><c props="font-weight:normal; font-size:12pt">Nel campo 'maxconnect' viene specificato il numero esatto di connessioni da instaurare con il Server per ottenere l'intero file; questo numero è il valore di ritorno della funzione checkLen.</c><c props="font-weight:normal; font-size:12pt"></c></p>
+<p xid="265" props="font-family:Times New Roman; font-size:9pt; dom-dir:ltr; lang:it-IT; font-weight:normal; text-position:normal; text-align:left; font-style:normal; text-decoration:none"><c props="font-weight:normal; font-size:12pt; font-style:normal">Il campo 'temp' è l'indice del thread con il quale si sta instaurando la connessione con il Server. Questo valore, oscilla da 0 a maxconnect-1. Viene usato per settare nel modo appropriato i valori della struttura Range.</c><c props="font-weight:normal; font-size:12pt; font-style:normal"></c></p>
+<p xid="254" props="font-family:Times New Roman; font-size:9pt; dom-dir:ltr; lang:it-IT; font-weight:normal; text-position:normal; text-align:left; font-style:italic; text-decoration:none"><c></c></p>
+<frame xid="699" props="background-color:e5e5e5; frame-width:5.934028in; right-color:000000; frame-col-xpos:0.023611in; ypos:0.117361in; top-color:000000; frame-page-ypos:9.542361in; bot-color:000000; bg-style:1; left-color:000000; left-thickness:1.00pt; ypad:0.03in; frame-height:1.015278in; right-thickness:1.00pt; xpos:0.023611in; frame-page-xpos:1.023611in; top-style:0; wrap-mode:wrapped-both; bot-style:0; bot-thickness:1.00pt; frame-type:textbox; frame-col-ypos:8.542361in; position-to:column-above-text; xpad:0.03in; left-style:0; relocate:0; right-style:0; pref-page:1; tight-wrap:0; top-thickness:1.00pt">
+<p xid="701" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none">struct RequestGet {</c><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none"></c></p>
+<p xid="702" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none">	char buf[MAXLENREQ];</c><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none"></c></p>
+<p xid="703" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none">	int maxconnect;</c><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none"></c></p>
+<p xid="704" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none">	int temp;//usato per i thread indica il proprio numero</c><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none"></c></p>
+<p xid="705" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none">	struct Range range;</c><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none"></c></p>
+<p xid="706" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none">	};</c><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none"></c></p>
+<p xid="707" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none"></c></p>
+</frame><p xid="255" props="text-align:left; dom-dir:ltr"><c props="font-style:italic; font-size:9pt"></c></p>
+<p xid="508" props="text-align:left; dom-dir:ltr"><c props="font-style:italic; font-size:9pt"></c></p>
+<p xid="509" props="font-family:Times New Roman; font-size:9pt; dom-dir:ltr; lang:it-IT; font-weight:normal; text-position:normal; text-align:left; font-style:italic; text-decoration:none"><c></c></p>
+<p xid="578" props="font-family:Times New Roman; font-size:9pt; dom-dir:ltr; lang:it-IT; font-weight:normal; text-position:normal; text-align:left; font-style:italic; text-decoration:none"><c></c></p>
+<p xid="579" props="font-family:Times New Roman; font-size:9pt; dom-dir:ltr; lang:it-IT; font-weight:normal; text-position:normal; text-align:left; font-style:italic; text-decoration:none"><c></c></p>
+<p xid="510" props="text-align:left; dom-dir:ltr"><c props="font-style:italic; font-size:9pt"></c></p>
+<p xid="511" props="text-align:left; dom-dir:ltr"><c props="font-style:italic; font-size:9pt"></c></p>
+<p xid="512" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold; font-size:12pt; font-style:normal"></c></p>
+<p xid="596" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold; font-size:12pt; font-style:normal"></c><c props="font-weight:bold; font-size:12pt; font-style:normal">ResponseInf:</c></p>
+<p xid="275" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold; font-size:12pt; font-style:normal"></c></p>
+<p xid="277" props="text-align:left; dom-dir:ltr"><c props="font-weight:normal; font-size:12pt; font-style:normal">Questa struttura viene riempita quando si deve ricevere la risposta di tipo INF dal Server.</c><c props="font-weight:normal; font-size:12pt; font-style:normal"></c></p>
+<p xid="278" props="text-align:left; dom-dir:ltr"><c props="font-weight:normal; font-size:12pt; font-style:normal">Il messaggio ricevuto viene inserito dentro  il campo 'buf'.</c><c props="font-weight:normal; font-size:12pt; font-style:normal"></c></p>
+<p xid="279" props="font-family:Times New Roman; font-size:9pt; dom-dir:ltr; lang:it-IT; font-weight:normal; text-position:normal; text-align:left; font-style:italic; text-decoration:none"><c props="font-weight:normal; font-size:12pt; font-style:normal">Nei due campi successivi avremo i valori di lunghezza e scadenza del file che il Client sta richiedendo.</c><c props="font-weight:normal; font-size:12pt; font-style:normal"></c></p>
+<p xid="269" props="font-family:Times New Roman; font-size:9pt; dom-dir:ltr; lang:it-IT; font-weight:normal; text-position:normal; text-align:left; font-style:italic; text-decoration:none"><c></c></p>
+<p xid="270" props="font-family:Times New Roman; font-size:9pt; dom-dir:ltr; lang:it-IT; font-weight:normal; text-position:normal; text-align:left; font-style:italic; text-decoration:none"><c props="font-style:italic; font-size:9pt"></c></p>
+<frame xid="766" props="background-color:e5e5e5; frame-width:6.004167in; right-color:000000; frame-col-xpos:-0.016667in; ypos:0.002083in; top-color:000000; frame-page-ypos:2.249306in; bot-color:000000; bg-style:1; left-color:000000; left-thickness:1.00pt; ypad:0.03in; frame-height:0.816667in; right-thickness:1.00pt; xpos:-0.016667in; frame-page-xpos:0.983333in; top-style:0; wrap-mode:wrapped-both; bot-style:0; bot-thickness:1.00pt; frame-type:textbox; frame-col-ypos:1.249306in; position-to:column-above-text; xpad:0.03in; left-style:0; relocate:0; right-style:0; pref-page:2; tight-wrap:0; top-thickness:1.00pt">
+<p xid="768" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none">struct ResponseInf {</c><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none"></c></p>
+<p xid="769" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none">	char buf[MAXLENREQ];</c><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none"></c></p>
+<p xid="770" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none">	int Len;</c><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none"></c></p>
+<p xid="771" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none">	int expire;</c><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none"></c></p>
+<p xid="772" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none">};</c><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none"></c></p>
+</frame><p xid="280" props="text-align:left; dom-dir:ltr"><c props="font-style:italic; font-size:9pt"></c></p>
+<p xid="281" props="text-align:left; dom-dir:ltr"><c props="font-style:italic; font-size:9pt"></c></p>
+<p xid="282" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold; font-size:12pt; font-style:normal"></c></p>
+<p xid="391" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold; font-size:12pt; font-style:normal"></c></p>
+<p xid="392" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold; font-size:12pt; font-style:normal"></c></p>
+<p xid="393" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold; font-size:12pt; font-style:normal"></c><c props="font-weight:bold; font-size:12pt; font-style:normal">ResponseGet:</c></p>
+<p xid="292" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold; font-size:12pt; font-style:normal"></c></p>
+<p xid="293" props="text-align:left; dom-dir:ltr"><c props="font-weight:normal; font-size:12pt; font-style:normal">Questa struttura viene riempita quando si riceve la risposta di tipo GET da parte del Server.</c><c props="font-weight:normal; font-size:12pt; font-style:normal"></c></p>
+<p xid="295" props="font-family:Times New Roman; font-size:9pt; dom-dir:ltr; lang:it-IT; font-weight:normal; text-position:normal; text-align:left; font-style:italic; text-decoration:none"><c props="font-weight:normal; font-size:12pt; font-style:normal">Il messaggio viene inserito all'interno del campo 'buf', mentre in 'fd' abbiamo il file descriptor ottenuto dalla accept() eseguita nel main.</c><c props="font-weight:normal; font-size:12pt; font-style:normal"></c></p>
+<p xid="296" props="font-family:Times New Roman; font-size:9pt; dom-dir:ltr; lang:it-IT; font-weight:normal; text-position:normal; text-align:left; font-style:italic; text-decoration:none"><c props="font-weight:normal; font-size:12pt; font-style:normal">Nel buffer 'dati' vengono inseriti i bytes successivi all'intestazione del messaggio; questo viene fatto perchè solo il primo thread invierà al Client l'intestazione, tutti gli altri si limiteranno ad inviare solo i dati contenuti nel file.</c><c props="font-weight:normal; font-size:12pt; font-style:normal"></c></p>
+<p xid="297" props="text-align:left; dom-dir:ltr"><c props="font-weight:normal; font-size:12pt; font-style:normal">Anche in questo caso è presente una struttura Range; questa però viene usata solo nella funzione check201(), per avere delle variabili di appoggio.</c><c props="font-weight:normal; font-size:12pt; font-style:normal"></c></p>
+<p xid="284" props="font-family:Times New Roman; font-size:9pt; dom-dir:ltr; lang:it-IT; font-weight:normal; text-position:normal; text-align:left; font-style:italic; text-decoration:none"><c></c></p>
+<p xid="285" props="font-family:Times New Roman; font-size:9pt; dom-dir:ltr; lang:it-IT; font-weight:normal; text-position:normal; text-align:left; font-style:italic; text-decoration:none"><c></c></p>
+<frame xid="817" props="background-color:e5e5e5; frame-width:6.141667in; right-color:000000; frame-col-xpos:-0.031250in; ypos:0.043056in; top-color:000000; frame-page-ypos:5.247222in; bot-color:000000; bg-style:1; left-color:000000; left-thickness:1.00pt; ypad:0.03in; frame-height:1.112500in; right-thickness:1.00pt; xpos:-0.031250in; frame-page-xpos:0.968750in; top-style:0; wrap-mode:wrapped-both; bot-style:0; bot-thickness:1.00pt; frame-type:textbox; frame-col-ypos:4.247222in; position-to:column-above-text; xpad:0.03in; left-style:0; relocate:0; right-style:0; pref-page:2; tight-wrap:0; top-thickness:1.00pt">
+<p xid="819" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none">struct ResponseGet{</c><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none"></c></p>
+<p xid="820" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none">	char buf[MAXLENDATA];</c><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none"></c></p>
+<p xid="821" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none">	int fd;//usato per la invio200, qui viene salvato il fd del client</c><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none"></c></p>
+<p xid="822" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none">	int expire;</c><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none"></c></p>
+<p xid="823" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none">	char dati[MAXLENDATA];</c><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none"></c></p>
+<p xid="824" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none">	struct Range range;	</c><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none"></c></p>
+<p xid="825" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none">	};</c><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none"></c></p>
+</frame><p xid="299" props="font-family:Times New Roman; font-size:9pt; dom-dir:ltr; color:000000; lang:it-IT; font-weight:normal; text-position:normal; text-align:left; font-style:italic; text-decoration:none"><c></c></p>
+<p xid="300" props="text-align:left; dom-dir:ltr"><c props="font-style:italic; font-size:9pt"></c></p>
+<p xid="336" props="text-align:left; dom-dir:ltr"><c props="font-style:italic; font-size:9pt"></c></p>
+<p xid="337" props="text-align:left; dom-dir:ltr"><c props="font-style:italic; font-size:9pt"></c></p>
+<p xid="338" props="text-align:left; dom-dir:ltr"><c props="font-style:italic; font-size:9pt"></c></p>
+<p xid="339" props="text-align:left; dom-dir:ltr"><c props="font-style:italic; font-size:9pt"></c></p>
+<p xid="340" props="font-family:Times New Roman; font-size:9pt; dom-dir:ltr; color:000000; lang:it-IT; font-weight:normal; text-position:normal; text-align:left; font-style:italic; text-decoration:none"><c></c></p>
+<p xid="355" props="font-family:Times New Roman; font-size:9pt; color:000000; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none"><c props="font-weight:bold; font-size:12pt; font-style:normal"></c></p>
+<p xid="816" props="font-family:Times New Roman; font-size:9pt; color:000000; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none"><c props="font-weight:bold; font-size:12pt; font-style:normal"></c><c props="font-weight:bold; font-size:12pt; font-style:normal">Life:</c></p>
+<p xid="620" props="font-family:Times New Roman; font-size:9pt; color:000000; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none"><c props="font-weight:bold"></c></p>
+<p xid="621" props="font-family:Times New Roman; font-size:9pt; color:000000; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none"><c props="font-weight:normal; font-size:12pt; font-style:normal">Questa struttura viene utilizzata per la gestione della cache.</c><c props="font-weight:normal; font-size:12pt; font-style:normal"></c></p>
+<p xid="622" props="font-family:Times New Roman; font-size:9pt; color:000000; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none"><c props="font-weight:normal; font-size:12pt; font-style:normal"></c><c props="font-weight:normal; font-size:12pt; font-style:normal">Il primo campo indica il nome del file che si va ad inserire; questo verrà utilizzato per una rapida ricerca dell'esistenza o meno del file richiesto dal Client nella cache.</c></p>
+<p xid="626" props="font-family:Times New Roman; font-size:9pt; color:000000; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none"><c props="font-weight:normal; font-size:12pt; font-style:normal">Il campo 'buf' contiene il file[nome] comprensivo di intestazione.</c><c props="font-weight:normal; font-size:12pt; font-style:normal"></c></p>
+<p xid="627" props="font-family:Times New Roman; font-size:9pt; color:000000; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none"><c props="font-weight:normal; font-size:12pt; font-style:normal">Il campo 'birth' contiene la data di inserimento del file[nome] in cache.</c><c props="font-weight:normal; font-size:12pt; font-style:normal"></c></p>
+<p xid="624" props="font-family:Times New Roman; font-size:9pt; color:000000; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none"><c></c></p>
+<frame xid="826" props="background-color:e5e5e5; frame-width:6.150000in; right-color:000000; frame-col-xpos:-0.009028in; ypos:0.122222in; top-color:000000; frame-page-ypos:7.869444in; bot-color:000000; bg-style:1; left-color:000000; left-thickness:1.00pt; ypad:0.03in; frame-height:0.932639in; right-thickness:1.00pt; xpos:-0.009028in; frame-page-xpos:0.990972in; top-style:0; wrap-mode:wrapped-both; bot-style:0; bot-thickness:1.00pt; frame-type:textbox; frame-col-ypos:6.869444in; position-to:column-above-text; xpad:0.03in; left-style:0; relocate:0; right-style:0; pref-page:2; tight-wrap:0; top-thickness:1.00pt">
+<p xid="828" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none">struct Life{</c><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none"></c></p>
+<p xid="829" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none">	char nome[20];</c><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none"></c></p>
+<p xid="830" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none">	char buf[5500];</c><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none"></c></p>
+<p xid="831" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none">	int expire;	</c><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none"></c></p>
+<p xid="832" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none">	long int birth;</c><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none"></c></p>
+<p xid="833" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none">	};</c><c props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none"></c></p>
+</frame><p xid="625" props="font-family:Times New Roman; font-size:9pt; color:000000; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none"><c></c></p>
+<p xid="628" props="font-family:Times New Roman; font-size:9pt; dom-dir:ltr; color:000000; lang:it-IT; text-align:left; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none"><c></c></p>
+<p xid="629" props="font-family:Times New Roman; font-size:12pt; dom-dir:ltr; color:000000; lang:it-IT; font-weight:normal; text-position:normal; text-align:left; font-style:normal; text-decoration:none"><c></c></p>
+<p xid="643" props="font-family:Times New Roman; font-size:9pt; lang:it-IT; text-position:normal; font-weight:normal; font-style:italic; text-decoration:none"><c></c></p>
+<p xid="652"><c></c></p>
+<p xid="773"><c></c></p>
+<p xid="774"><c></c></p>
+<p xid="775"><c></c></p>
+<p xid="776"><c props="font-weight:bold; text-decoration:underline">FUNZIONAMENTO GENERALE:</c><c props="font-weight:bold; text-decoration:underline"></c></p>
+<p xid="777"><c props="font-weight:bold; text-decoration:underline"></c></p>
+<p xid="779"><c props="text-decoration:none; font-weight:normal">Per ogni connessione accettata lato-Client, il proxy individua il primo posto libero nell' array di strutture RequestWrapper. Dopo di che, passa la struttura ad un thread che ha il compito di gestire l'intera richiesta file. </c><c props="text-decoration:none; font-weight:normal"></c></p>
+<p xid="780"><c props="text-decoration:none; font-weight:normal">Il thread attende di ricevere dal Client la richiesta per poi controllarne il formato per un eventuale errore di tipo 403.</c><c props="text-decoration:none; font-weight:normal"></c></p>
+<p xid="781"><c props="text-decoration:none; font-weight:normal">A questo punto, il thread controlla se il file richiesto è già presente nella cache; se lo trova, si deve prima controllare che questo non sia scaduto oppure che non abbia subito modifiche dalla data di inserimento nella cache. Se il file è ancora valido, posso direttamente inviarlo al Client, chiudere la connessione lato-Client ed aggiornare il campo birth. In caso contrario il proxy elimina il file scaduto dalla cache e procede normalmente nella gestione della richiesta.</c><c props="text-decoration:none; font-weight:normal"></c></p>
+<p xid="807"><c props="text-decoration:none; font-weight:normal">Anche nel caso in cui il file non sia presente nella cache, il proxy procede normalmente nella gestione, preoccupandosi di individuare la prima posizione libera utile all´inserimento del file in memoria.</c><c props="text-decoration:none; font-weight:normal"></c></p>
+<p xid="808"><c props="text-decoration:none; font-weight:normal"></c></p>
+<p xid="809"><c props="text-decoration:underline; font-weight:bold">STRUTTURAZIONE RICHIESTE:</c><c props="font-weight:bold; text-decoration:none"></c></p>
+<p xid="810"><c props="text-decoration:none; font-weight:normal"></c></p>
+<p xid="811"><c props="text-decoration:none; font-weight:normal"></c><c props="text-decoration:none; font-weight:normal">Il proxy invia la richiesta di INF al Server (funzione handlerResponseInf) e successivamente dopo aver valutato il campo Len della struttura ResponseInf genererà, attraverso la funzione checkLen(), il numero giusto di thread ognuno dei quali avrà il compito di richiedere una porzione del file tramite apposita richiesta GET.</c></p>
+<p xid="788"><c props="text-decoration:none; font-weight:normal">Ogni thread generato imposterà i giusti campi della struttura Range, creerà una connessione col Server (funzione handlerResponseGet), attenderà di ricevere i dati e, se sarà il suo turno,  procederà con l´invio al Client, sbloccando poi il thread successivo; fatto ciò potrà chiudere la propria connessione con il Server.</c><c props="text-decoration:none; font-weight:normal"></c></p>
+<p xid="787"><c props="text-decoration:none; font-weight:normal">Terminato l´invio di tutte le parti del file e completata l´attesa attraverso il pthread_join, si potrà chiudere la connessione con il Client.</c><c props="text-decoration:none; font-weight:normal"></c></p>
+<p xid="812"><c props="text-decoration:none; font-weight:normal">A questo punto, il thread incaricato della gestione della richiesta libererà la struttura per i successivi Client.</c><c props="text-decoration:none; font-weight:normal"></c></p>
+<p xid="813"><c props="text-decoration:none; font-weight:normal">Infine, il file scaricato verrà messo nella cache, se sarà possibile individuare una posizione libera al suo interno.</c><c props="text-decoration:none; font-weight:normal"></c></p>
+<p xid="814"><c props="text-decoration:none; font-weight:normal"></c></p>
+<p xid="837"><c props="text-decoration:none; font-weight:normal"></c></p>
+<p xid="838"><c props="text-decoration:underline; font-weight:bold">TEST:</c></p>
+<p xid="839"><c props="text-decoration:underline; font-weight:bold"></c></p>
+<p xid="840"><c props="font-weight:normal; text-decoration:none">Di seguito è riportato un grafico in cui è possibile vedere il tempo impiegato per completare delle richieste con dei file della dimensione di circa 10, 100, 1040, 2040, 3100 bytes.</c></p>
+<p xid="841"><c props="font-weight:normal; text-decoration:none">Viene messo a confronto in particolare, il tempo necessario a completare l'operazione nel caso in cui il file si trovi già nella cache, oppure debba essere prelevato dal Server.</c></p>
+<p xid="842"><c props="font-weight:normal; text-decoration:none">Il grafico non tiene conto di eventuali errori o ritardi da parte del Server e il contenuto dei file non prevedeva nessun riferimento ad altri file.</c><image dataid="ae26bda2-56af-11e1-87e8-dca384564ff9" title="" alt="" xid="836" props="height:4.5694in; width:5.9535in"/></p>
+</section>
+<data>
+<d name="ae26bda2-56af-11e1-87e8-dca384564ff9" mime-type="image/png" base64="yes">
+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
+AAAAAA==
+</d>
+</data>
+</abiword>
